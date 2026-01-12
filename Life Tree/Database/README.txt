@@ -1,0 +1,1 @@
+This folder contains the database files. They are excluded from the portfolio for privacy reasons.

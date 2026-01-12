@@ -1,0 +1,22 @@
+[
+  {
+    "label": "My Problems",
+    "uid": "4ba50690-8947-4fd1-bcd8-c56ceb26e6d9",
+    "status": "neutral",
+    "description": "",
+    "x": 0,
+    "y": 0,
+    "width": 115,
+    "height": 40,
+    "intentions": [],
+    "archived_stats": {
+      "time": 0,
+      "words": 0,
+      "chars": 0
+    },
+    "allowed_windows": [],
+    "cycle_time": 0,
+    "cycle_count": 0,
+    "children": []
+  }
+]

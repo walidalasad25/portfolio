@@ -1,0 +1,32 @@
+/* Total Immersion Mode - Paper Only */
+
+QMainWindow {
+    background-color: #fcfaf5;
+}
+
+#desk {
+    background-color: transparent;
+}
+
+#paper_area {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 100px 15%;
+    /* Large margins to center the column */
+}
+
+QPlainTextEdit {
+    background-color: transparent;
+    border: none;
+    /* VISIBLE TEXT: Using native Qt rendering for now */
+    color: #141414;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+#status_bar,
+#header {
+    display: none;
+}
