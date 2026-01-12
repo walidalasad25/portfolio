@@ -15,4 +15,5 @@ A tiny example project to understand repositories, README files, and commits.
 - How GitHub shows projects publicly
 
 **Link**
-- Repo: (this repository)
+- Project folder: project-hello/
+
